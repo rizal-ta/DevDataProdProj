@@ -1,0 +1,12 @@
+name: IMDBfilter
+title: IMDBfilter
+username:
+account: rizal-ta
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2878886
+bundleId: 3666686
+url: https://rizal-ta.shinyapps.io/IMDBfilter/
+when: 1600962192.38328
+asMultiple: FALSE
+asStatic: FALSE
